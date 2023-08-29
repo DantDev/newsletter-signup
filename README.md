@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/newsletter-signup-page-made-w-react-vite-css-var-responsive-HvRn3qR-Xl)
 - Live Site URL: [Live site URL](https://roaring-bienenstitch-3d4b17.netlify.app/)
 - Repository: [Repository URL](https://github.com/DantDev/newsletter-signup)
 
