@@ -34,7 +34,7 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Live site URL](https://roaring-bienenstitch-3d4b17.netlify.app/)
-- Repositorie: [Repositorie URL](https://github.com/DantDev/newsletter-signup)
+- Repository: [Repository URL](https://github.com/DantDev/newsletter-signup)
 
 ## My process
 
