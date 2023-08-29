@@ -33,7 +33,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://roaring-bienenstitch-3d4b17.netlify.app/)
+- Repositorie: [Repositorie URL](https://github.com/DantDev/newsletter-signup)
 
 ## My process
 
@@ -51,4 +52,4 @@ Users should be able to:
 - Website - [My Portfolio](https://wondrous-chaja-b0f2e7.netlify.app/)
 - Frontend Mentor - [@DantDev](https://www.frontendmentor.io/profile/DantDev)
 - Instagram - [@p3drr0](https://www.instagram.com/p3drr0)
-- GitHub - [@DantDev] (https://github.com/DantDev)
+- GitHub - [@DantDev](https://github.com/DantDev)
